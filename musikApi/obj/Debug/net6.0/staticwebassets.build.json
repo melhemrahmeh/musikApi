@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U5qmMXkQa0owBQ1xscvwL9QBtlFcEox0CL2evElZKNE=",
+  "Source": "musikApi",
+  "BasePath": "_content/musikApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
